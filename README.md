@@ -13,8 +13,9 @@ _"Of course,"_ she whispered. Then, she shouted: "All I need is **a little moxie
 
 Here's some words about the book _One Hundred Years..._.
 [Search for it.](https://www.google.com)
-[You're **really, really** going to want to see this.](www.dailykitten.com)
-#### The Latest News from [the BBC](www.bbc.com/news:)
+
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
+#### The Latest News from [the BBC](https://www.bbc.com/news:)
 !["A Pretty tiger"](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 I read this interesting quote the other day:
