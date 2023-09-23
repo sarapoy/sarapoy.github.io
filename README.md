@@ -24,6 +24,13 @@ Here's some words about the book _One Hundred Years..._.
 #### The Latest News from [the BBC](www.bbc.com/news:)
 !["A Pretty tiger"](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
+![Black cat][Black]
+
+![Orange cat][Orange]
+
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+[Orange]: https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+
 # Blockquotes
 I read this interesting quote the other day:
 
