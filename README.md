@@ -85,7 +85,7 @@ Cut the cheese, Slice the tomatoes, Rub the tomatoes in flour
 # People
 
 * Calculus
-  * Aprofessor
+  * A professor
   * Has no hair
     * Often wears green
 * Castafiore
