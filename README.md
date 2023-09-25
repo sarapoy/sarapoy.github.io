@@ -1,4 +1,4 @@
-## <Sara Pöyhtäri>
+## Sara Pöyhtäri
 
 # _Italic_ and **Bold**
 
